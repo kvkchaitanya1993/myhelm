@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  krishna:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-10-08T11:28:56.101110871Z"
+    description: A Helm chart for Kubernetes
+    digest: 69f8cdae179cb4b9d886fc303654742e2b5d13b8e92d915be00745fb47cb9951
+    name: krishna
+    type: application
+    urls:
+    - krishna-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-08T11:28:56.100312744Z"
